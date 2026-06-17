@@ -1,0 +1,6 @@
+venv/
+dataset/
+attendance.csv
+test.py
+trainer.yml
+__pycache__/
