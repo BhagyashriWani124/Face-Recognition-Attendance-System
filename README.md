@@ -50,6 +50,9 @@ python Attendance.py
 * Database Integration
 * Attendance Reports
 * Email Notifications
+### Attendance CSV
+
+![Attendance CSV](screenshots/attendance_csv.png)
 
 ## Author
 

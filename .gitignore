@@ -2,5 +2,6 @@ venv/
 dataset/
 attendance.csv
 test.py
+Realtime_attendance.py
 trainer.yml
 __pycache__/
